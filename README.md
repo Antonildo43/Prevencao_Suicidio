@@ -1,6 +1,6 @@
 #  Prevenção de Suicídio
 
-Neste projeto trabalho com um tema relevante para a sociedade e ao mesmo tempo demonstrarei minhas habilidades em Machine Learning. Para esta tarefa, utilizo um conjunto de dados disponibilizado publicamente no Kaggle, extraido de postagens dos subreddits "SuicideWatch" e "depression" da plataforma Reddit. O Reddit é uma plataforma preferida por pessoas com problemas emocionais, por isso fornece pistas significativas para o suicídio.
+Neste projeto trabalho com um tema relevante para a sociedade e ao mesmo tempo demonstrarei minhas habilidades em Machine Learning. Para esta tarefa, utilizo um conjunto de dados disponibilizado publicamente no Kaggle [dataset](https://www.kaggle.com/nikhileswarkomati/suicide-watch), extraido de postagens dos subreddits "SuicideWatch" e "depression" da plataforma Reddit. O Reddit é uma plataforma preferida por pessoas com problemas emocionais, por isso fornece pistas significativas para o suicídio.
 
 As postagens foram coletadas usando a API Pushshift. Todas as postagens feitas para "SuicideWatch" foram coletadas de 16 de dezembro de 2008 (criação) até 2 de janeiro de 2021 , enquanto as postagens de "depression" foram coletadas de 1 de janeiro de 2009 a 2 de janeiro de 2021.
 
