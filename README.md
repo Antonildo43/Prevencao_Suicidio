@@ -1,4 +1,4 @@
-##Projeto Prevenção de Suicídio
+#  Prevenção de Suicídio
 
 Neste projeto trabalho com um tema relevante para a sociedade e ao mesmo tempo demonstrarei minhas habilidades em Machine Learning. Para esta tarefa, utilizo um conjunto de dados disponibilizado publicamente no Kaggle, extraido de postagens dos subreddits "SuicideWatch" e "depression" da plataforma Reddit. O Reddit é uma plataforma preferida por pessoas com problemas emocionais, por isso fornece pistas significativas para o suicídio.
 
